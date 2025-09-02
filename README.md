@@ -1,6 +1,7 @@
 # Online Food Delivery System
 
 This is an online food delivery system built with React, TypeScript, Vite, and Tailwind CSS.
+![photo_2025-09-02_16-48-59](https://github.com/user-attachments/assets/b6c34d5d-9628-4a50-93e5-e75ba9ee3197)
 
 ## Project Structure
 
@@ -44,5 +45,4 @@ The output will be in the dist/ folder.
 - Vite
 - Tailwind CSS
 
-## License
-Specify your license here (e.g., MIT).
+
